@@ -10,7 +10,6 @@ The project leverages cutting-edge architectures, such as CNN-based models inspi
 ---
 
 ![Project Flow](https://github.com/AdityaKalsi/Self-Driving-Car-Prototype/blob/2071cf620be1727cdd62a4ed12144a8513221779/Project%20flow.png)
-![](https://github.com/AdityaKalsi/Self-Driving-Car-Prototype/blob/8a9cb07e84015b29ec13392d7338deace2dec0e1/Steer.png)
 ## **Features**
 
 ### **Pipeline 1: Navigation and Safety**
@@ -19,7 +18,7 @@ The project leverages cutting-edge architectures, such as CNN-based models inspi
 - **Steering Angle Prediction**: Using a deep learning model to predict the optimal steering angle for smooth and safe driving.
 
 ![Lane Detection](https://github.com/AdityaKalsi/Self-Driving-Car-Prototype/blob/8a9cb07e84015b29ec13392d7338deace2dec0e1/traffic%20light.png)
-![](https://github.com/AdityaKalsi/Self-Driving-Car-Prototype/blob/8a9cb07e84015b29ec13392d7338deace2dec0e1/Lane.png)
+
 
 ### **Pipeline 2: Road Safety**
 - **Pothole Detection**: Identifies and classifies potholes in real-time to avoid potential road hazards.
@@ -46,6 +45,8 @@ The project leverages cutting-edge architectures, such as CNN-based models inspi
 4. **Steering Angle Prediction**:
    - A CNN inspired by NVIDIA's architecture predicts the steering angle based on the processed input.
    - Adjusts the car's steering system in real-time.
+     
+![](https://github.com/AdityaKalsi/Self-Driving-Car-Prototype/blob/8a9cb07e84015b29ec13392d7338deace2dec0e1/Lane.png)
 
 ### **Pipeline 2**
 1. **Input Pothole Data**: Processes road surface information from an additional downward-facing camera or LiDAR.
@@ -66,6 +67,7 @@ The project addresses both primary aspects of autonomous driving: **Navigation**
 ## **Highlights**
 
 - **NVIDIA-Inspired CNN**: The model leverages a specialized convolutional neural network for steering angle prediction, ensuring reliable navigation decisions.
+- ![](https://github.com/AdityaKalsi/Self-Driving-Car-Prototype/blob/8a9cb07e84015b29ec13392d7338deace2dec0e1/Steer.png)
 - **YOLOv11 for Object Detection**: Offers high accuracy and real-time detection of vehicles and traffic signs.
 - **Pothole Prediction Module**: A dedicated pipeline to detect and classify road damage, setting it apart from standard self-driving systems.
 
