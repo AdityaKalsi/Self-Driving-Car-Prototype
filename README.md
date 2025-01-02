@@ -9,6 +9,7 @@ The project leverages cutting-edge architectures, such as CNN-based models inspi
 
 ---
 
+![Project Flow](https://github.com/AdityaKalsi/Self-Driving-Car-Prototype/blob/2071cf620be1727cdd62a4ed12144a8513221779/Project%20flow.png)
 ## **Features**
 
 ### **Pipeline 1: Navigation and Safety**
