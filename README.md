@@ -10,6 +10,7 @@ The project leverages cutting-edge architectures, such as CNN-based models inspi
 ---
 
 ![Project Flow](https://github.com/AdityaKalsi/Self-Driving-Car-Prototype/blob/2071cf620be1727cdd62a4ed12144a8513221779/Project%20flow.png)
+![](https://github.com/AdityaKalsi/Self-Driving-Car-Prototype/blob/8a9cb07e84015b29ec13392d7338deace2dec0e1/Steer.png)
 ## **Features**
 
 ### **Pipeline 1: Navigation and Safety**
@@ -17,8 +18,13 @@ The project leverages cutting-edge architectures, such as CNN-based models inspi
 - **Object Detection**: Identifies nearby cars and traffic signs to make informed decisions.
 - **Steering Angle Prediction**: Using a deep learning model to predict the optimal steering angle for smooth and safe driving.
 
+![Lane Detection](https://github.com/AdityaKalsi/Self-Driving-Car-Prototype/blob/8a9cb07e84015b29ec13392d7338deace2dec0e1/traffic%20light.png)
+![](https://github.com/AdityaKalsi/Self-Driving-Car-Prototype/blob/8a9cb07e84015b29ec13392d7338deace2dec0e1/Lane.png)
+
 ### **Pipeline 2: Road Safety**
 - **Pothole Detection**: Identifies and classifies potholes in real-time to avoid potential road hazards.
+
+![](https://github.com/AdityaKalsi/Self-Driving-Car-Prototype/blob/8a9cb07e84015b29ec13392d7338deace2dec0e1/Pot%202.png)
 
 ### **General Features**
 - **Real-Time Processing**: Ensures decisions are made instantly to handle dynamic road scenarios.
